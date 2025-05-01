@@ -53,7 +53,7 @@ export default function Header() {
           <LangButton language={language} setLanguage={setLanguage} value="ko">
             KOR
           </LangButton>
-          <span className="text-[15px] font-[500] text-[#d1d6db]">|</span>
+          <span className="text-[#d1d6db]">|</span>
           <LangButton language={language} setLanguage={setLanguage} value="en">
             ENG
           </LangButton>
