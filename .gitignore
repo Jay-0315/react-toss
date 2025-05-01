@@ -13,3 +13,4 @@
 
 # React Router
 /.react-router/
+app/routes/pages/route.tsx
